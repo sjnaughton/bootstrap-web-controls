@@ -9,6 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Git", "Git", "{D25F3E84-5FF
 	ProjectSection(SolutionItems) = preProject
 		.gitattributes = .gitattributes
 		.gitignore = .gitignore
+		bootstrap-menu.png = bootstrap-menu.png
 		LICENSE = LICENSE
 		README.md = README.md
 	EndProjectSection
