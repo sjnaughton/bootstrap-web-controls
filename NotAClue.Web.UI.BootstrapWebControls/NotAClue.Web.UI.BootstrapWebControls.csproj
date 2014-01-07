@@ -72,6 +72,7 @@
     <None Include="web.config.transformation" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Menu\BootstrapMenu.ico" />
     <Content Include="Tabs\BootstrapTabs.ico" />
     <None Include="AjaxTabs\Tabs.ico" />
     <Content Include="AjaxTabs\Tabs_resource.css" />
