@@ -8,5 +8,6 @@ This project will complement my other project [Bootstrap Friendly Dynamic Data P
 1. Bootstrap Menu - Done available on NuGet [NotAClue Bootstrap Freindly WebForms Controls](https://www.nuget.org/packages/NotAClue.Web.UI.BootstrapWebControls/) ![Bootstrap Menu](bootstrap-menu.png)
 2. Bootstrap Tabs - just started
 3. Bootstrap Breadcrumb - not started.
+4. Bootstrap Modal Window.
 
 And hopfully more as I need them.
